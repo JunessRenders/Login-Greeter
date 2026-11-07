@@ -1,11 +1,11 @@
-# Maintainer: TinoTheCuteDuck tinothecuteduck@gmail.com
+# Maintainer: JunessRenders JunessRenders@outlook.com
 
 pkgname=login-greeter
 pkgver=1.0.0
 pkgrel=1
 pkgdesc="A simple Qt6 QML login greeter"
 arch=('x86_64')
-url="https://github.com/TinoTheCuteDuck/Login-Greeter"
+url="https://github.com/JunessRenders/Login-Greeter"
 
 options=('!debug')
 
@@ -17,7 +17,7 @@ depends=(
 )
 
 source=(
-    "LoginGreeter::https://github.com/TinoTheCuteDuck/Login-Greeter/releases/download/v${pkgver}/LoginGreeter"
+    "LoginGreeter::https://github.com/JunessRenders/Login-Greeter/releases/download/v${pkgver}/LoginGreeter"
 )
 
 sha256sums=('SKIP')
