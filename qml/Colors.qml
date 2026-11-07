@@ -3,13 +3,13 @@ pragma Singleton
 import QtQuick
 
 QtObject {
-    property color background_dark: "#1A1B26"
-    property color background_main: "#2D2F41"
-    property color foreground: "#C0CAF5"
-    property color border: "#414868"
-    property color accent: "#7AA2F7"
-    property color tertiary: "#283457"
-    property color magenta: "#bb9af7"
-    property color cyan: "#7dcfff"
+    property color background_dark: "#2c2c2c"
+    property color background_main: '#000000'
+    property color foreground: "#e6e6e6"
+    property color border: '#000000'
+    property color accent: "#9d0911"
+    property color tertiary: "#9d0911"
+    property color magenta: "#9d0911"
+    property color cyan: '#000000'
     property color green: "#9ece6a"
 }
